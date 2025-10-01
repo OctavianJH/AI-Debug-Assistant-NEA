@@ -1,4 +1,4 @@
-AI-Debug-Assistant-NEA:
+AI-Debug-Assistant-NEA: Due to privacy reasons and the exam board's instruction the code of the project cannot be public, however if you have any questions feel free to reach out.
 
 Overview:
 This project is my A Level Computer Science **NEA (Non-Examined Assessment)**
